@@ -9,7 +9,7 @@ class Cluster {
     update(membersData){
         // let membersSize = this.members.length
         // let meanSize = this.mean.length
-        // for(let i = 0;i < meanSize;i++){
+        // for(let i = 0;i < membersData[0].length;i++){
         //     this.mean[i] = 0.0
         // }
         // for(let i = 0;i < meanSize;i++){//每一个单词
